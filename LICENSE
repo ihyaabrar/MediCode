@@ -1,0 +1,59 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 Ihya' Nashirudin Abrar
+All Rights Reserved.
+
+TERMS AND CONDITIONS
+
+1. OWNERSHIP
+   This software, MediCode Assistant, including all source code, documentation,
+   assets, and associated files (collectively, "the Software"), is the exclusive
+   intellectual property of Ihya' Nashirudin Abrar ("the Author").
+
+2. PERMITTED USE
+   You are permitted to:
+   - View and study the source code for personal educational purposes.
+   - Install and use the compiled extension for personal, non-commercial use.
+   - Fork the repository solely for the purpose of submitting pull requests
+     to the original repository.
+
+3. RESTRICTIONS
+   You are NOT permitted to:
+   - Copy, modify, merge, publish, distribute, sublicense, or sell copies
+     of the Software or any substantial portion thereof.
+   - Use the Software or any part of it in any commercial product or service
+     without prior written permission from the Author.
+   - Remove or alter any copyright notices, license notices, or attributions
+     contained in the Software.
+   - Claim ownership or authorship of the Software or any derivative work.
+   - Redistribute the Software under a different name or branding.
+
+4. CONTRIBUTIONS
+   Any contributions submitted to this project (e.g., via pull requests) are
+   considered a transfer of rights to the Author. By submitting a contribution,
+   you agree that the Author may use, modify, and distribute your contribution
+   under the terms of this license without any obligation to you.
+
+5. DISCLAIMER OF WARRANTIES
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM
+   THE USE OF THE SOFTWARE.
+
+6. MEDICAL DISCLAIMER
+   The tariff calculations and ICD code suggestions provided by this Software
+   are for informational and estimation purposes only. They do not constitute
+   official medical billing advice. Always verify with official Kemenkes tools
+   and qualified medical coding professionals.
+
+7. CONTACT
+   For licensing inquiries, commercial use requests, or permissions beyond
+   the scope of this license, contact:
+
+   Ihya' Nashirudin Abrar
+   GitHub: https://github.com/ihyaabrar
+
+---
+
+This license is effective as of January 1, 2026.
